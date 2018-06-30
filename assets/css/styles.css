@@ -1,0 +1,460 @@
+#logo{
+  width:45%;
+  padding-bottom:0px;
+}
+
+#head.jumbotron{
+  text-align:left;
+  padding-left:200px;
+  padding-right:100px;
+  padding-top:100px;
+  background:url(bg.png) no-repeat;
+  background-size:cover;
+}
+
+h1#slogan{
+  font-size:40px;
+  font-family:sans-serif;
+  font-weight:600;
+}
+
+#phone-row.row{
+  position:relative;
+}
+
+img#phone.device{
+}
+
+h1#tittle{
+  font-size:60px;
+}
+
+div#haed.col-md-6{
+  padding-top:100px;
+}
+
+img#phone.device{
+  padding-left:100px;
+  width:70%;
+  position:initial;
+}
+
+.bg{
+  background:url(../../assets/img/bg3.png) no-repeat center;
+  background-size:cover;
+  border:none;
+}
+
+div.col-md-12.phone-.preview{
+}
+
+.bg .phone-preview{
+  text-align:center;
+}
+
+body{
+}
+
+*:before, *:after{
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+.jumbotron{
+  border:1px solid #e7e7e7;
+  -webkit-box-shadow:inset 0 2px 0 rgba(0,0,0,0.05);
+  box-shadow:inset 0 2px 0 rgba(0,0,0,0.05);
+}
+
+.logo{
+}
+
+img .logo{
+}
+
+h1#title{
+  font-size:40px;
+  font-weight:600;
+  color:rgb(191,56,52);
+}
+
+img.device{
+  vertical-align:middle;
+}
+
+div.col-md-4.col-md-offset-0.col-md-push-7.col-sm-11.phone-preview{
+}
+
+p#button{
+  padding-top:20px;
+}
+
+blockquote{
+  text-align:center;
+}
+
+div.jumbotron.bg{
+  padding-top:35px;
+  padding-bottom:35px;
+}
+
+p.text-justify{
+  font-family:sans-serif;
+  font-weight:700;
+  color:rgb(163,25,21);
+}
+
+nav#navbar.navbar.navbar-default{
+  background:none;
+  margin-bottom:0px;
+  box-shadow:none;
+}
+
+ul#nav-padding.nav.navbar-nav{
+  padding-left:40px;
+  padding-right:40px;
+}
+
+a{
+}
+
+.navbar{
+  position:relative;
+  min-height:0px;
+  margin-bottom:0px;
+  border:0px solid transparent;
+}
+
+@media screen and (min-width:768px) {
+  .jumbotron{
+    padding-top:0px;
+    padding-bottom:48px;
+  }
+}
+
+.text-jumbotron{
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#eee;
+}
+
+.text-jumbotron{
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#eee;
+}
+
+.jumbotron .text-jumbutton{
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#eee;
+}
+
+div#text-jumbutton.col-md-6.col-md-pull-3{
+  position:relative;
+  padding-top:150px;
+}
+
+img#event-logo{
+  width:60%;
+  height:auto;
+  vertical-align:middle;
+  align-content:center;
+}
+
+p#event-text{
+  font-size:25px;
+  text-align:center;
+  color:white;
+  padding-top:px;
+}
+
+.text-center{
+  text-align:center;
+  font-weight:600;
+  color:rgb(38,38,38);
+}
+
+section#section-feature{
+  padding-bottom:0px;
+}
+
+div#event-column.col-md-12{
+  background-color:rgba(40,40,40,0);
+}
+
+h1#heading-feature.text-center{
+  color:rgb(219,76,63);
+  margin-bottom:50px;
+  margin-top:50px;
+  font-weight:100;
+}
+
+h1#heading-event.text-center{
+  color:white;
+}
+
+div.col-md-12{
+  text-align:center;
+  vertical-align:middle;
+  padding:0px;
+}
+
+div#event-row.row{
+}
+
+img#icon{
+  width:60%;
+  align-content:center;
+}
+
+h1#caridarah-heading{
+  color:white;
+  font-weight:600;
+}
+
+p#caridarah-text{
+  color:white;
+  font-size:25px;
+  text-align:center;
+  padding-top:0;
+}
+
+hr{
+  height:0px;
+  -webkit-box-sizing:content-box;
+  -moz-box-sizing:content-box;
+  box-sizing:content-box;
+}
+
+h1#rumahsakit-heading{
+  color:white;
+  font-weight:600;
+}
+
+p#rumahsakit-text{
+  color:white;
+  font-size:25px;
+}
+
+h1#ask-heading{
+  color:white;
+  font-weight:600;
+}
+
+p#ask-text{
+  color:white;
+  font-size:25px;
+}
+
+.jumbotron p{
+  margin-bottom:15px;
+  font-size:25px;
+  font-weight:600;
+  color:rgb(109,104,104);
+  padding-bottom:40px;
+}
+
+hr#event-hr{
+  width:10px;
+}
+
+div.col-md-12.event-page{
+  text-align:left;
+  vertical-align:middle;
+  font-size:25px;
+}
+
+i.material-icons.list-icon{
+  vertical-align:middle;
+  margin-left:20px;
+  margin-bottom:3px;
+}
+
+div.col-md-6.event-page{
+  text-align:right;
+  vertical-align:middle;
+  font-size:25px;
+}
+
+img#slide.slide{
+  vertical-align:middle;
+  align-content:center;
+  width:200%;
+}
+
+img#phone{
+  margin-top:15px;
+}
+
+div#text-jumbutton.col-md-6.col-md-pull-4{
+  margin-top:100px;
+}
+
+.phone-mockup img#phone{
+  width:60%;
+}
+
+div#div-logo{
+  vertical-align:middle;
+  text-align:left;
+  padding-bottom:30px;
+}
+
+p#logo-text{
+  font-size:50px;
+  color:rgb(218,75,62);
+  margin-left:-35px;
+  margin-top:10px;
+}
+
+div#learnmore.col-md-6{
+  margin-left:0;
+  text-align:center;
+  padding-top:10px;
+}
+
+div#download.col-md-6{
+  text-align:center;
+  margin-left:0;
+  padding-top:10px;
+}
+
+button#learnmore.btn.btn-default{
+  color:white;
+  background-color:rgb(219,76,63);
+  background-size:cover;
+}
+
+div#features.row{
+  vertical-align:middle;
+  text-align:center;
+}
+
+h1#event-features{
+  color:rgb(109,104,104);
+  font-size:18px;
+  margin-top:12px;
+}
+
+p#caridarah-features.features{
+  font-size:18px;
+  color:rgb(109,104,104);
+  margin-top:10px;
+}
+
+p#instansi-features{
+  font-size:18px;
+  color:rgb(109,104,104);
+  margin-top:10px;
+}
+
+p#ask-features{
+  font-size:18px;
+  color:rgb(109,104,104);
+  margin-top:10px;
+}
+
+p.isi-features{
+  font-size:18px;
+}
+
+p.text-features{
+  color:rgb(219,76,63);
+}
+
+img.img-slider{
+  text-align:center;
+}
+
+div.item.active{
+  text-align:center;
+  align-content:center;
+}
+
+.carousel-control:focus, .carousel-control:hover{
+  color:#fff;
+  text-decoration:none;
+  filter:alpha(opacity=90);
+}
+
+div{
+}
+
+img.button-padding{
+  padding-top:10px;
+}
+
+i.glyphicon.glyphicon-stop{
+  color:rgb(221,77,62);
+  margin-top:5px;
+}
+
+p.text-fitur{
+  font-size:20px;
+  color:rgb(221,77,62);
+  margin-left:-15px;
+  margin-right:-15px;
+}
+
+p.isi-fitur{
+  font-size:25px;
+  color:rgb(109,104,104);
+}
+
+h1.head-fitur{
+  font-weight:600;
+  font-size:30px;
+  margin:.67em 0;
+  color:rgb(109,104,104);
+  margin-left:-15px;
+  margin-right:-15px;
+}
+
+img.phone-pic{
+  position:relative;
+  vertical-align:middle;
+}
+
+div.pic-div{
+  text-align:center;
+}
+
+div.div-fitur{
+  vertical-align:middle;
+}
+
+div.row{
+}
+
+div.row.fitur{
+  padding-top:100px;
+  padding-bottom:100px;
+}
+
+div.col-md-2{
+}
+
+div.col-md-4.col-sm-6.footer-navigation{
+  text-align:center;
+}
+
+div.col-md-2.footer-text{
+  padding-top:20px;
+  text-align:center;
+}
+
+p.links{
+  font-size:30px;
+}
+
+p.company-name{
+}
+
